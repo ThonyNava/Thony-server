@@ -1,0 +1,2 @@
+# Thony-server
+General assets
